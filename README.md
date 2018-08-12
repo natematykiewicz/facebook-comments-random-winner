@@ -9,7 +9,7 @@ Choose a random commenter from a post on Facebook.
 3. Click Install. The window will close and install the script. (Updates to the script will be installed automatically.)
 
 ## Usage:
-On Facebook, pull up any post that you'd like to choose a random winner for. In the top right, of the page (be sure to scroll to the top) you'll see a "Random Drawing" button. Click this button. You'll be prompted with a few questions, to know the rules of the drawing.
+On Facebook, pull up any post that you'd like to choose a random winner for. In the top right, of the page (be sure to scroll to the top as Facebook automatically scrolls you down below the cover photo) you'll see a "Random Drawing" button. Click this button. You'll be prompted with a few questions, to know the rules of the drawing.
 
 In order to choose a random comment as a winner, the script will click the "View previous comments" and view additional replies links, until all comments/replies are visible on your computer screen. This process can take a while, so be patient with it.
 
