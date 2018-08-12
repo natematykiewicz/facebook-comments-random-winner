@@ -5,6 +5,7 @@
 // @version      1
 // @description  Choose a random commenter from a post on Facebook
 // @match        https://www.facebook.com/groups/*/permalink/*
+// updateURL     https://raw.githubusercontent.com/natematykiewicz/facebook-comments-random-winner/master/facebook-comments-random-winner.user.js
 // ==/UserScript==
 
 (function() {
